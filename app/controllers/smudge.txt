@@ -1,0 +1,567 @@
+#<Mechanize::Page::Link
+ "Smudge"
+ "http://kacperniburski.wordpress.com/wp-admin/post.php?post=1601&action=edit">
+
+#<Mechanize::Page
+ {url
+  #<URI::HTTP:0x007f84015415f0 URL:http://kacperniburski.wordpress.com/wp-admin/post.php?post=1601&action=edit>}
+ {meta_refresh}
+ {title "Edit Post ‹ Mizpellt wurdz — WordPress"}
+ {iframes}
+ {frames}
+ {links
+  #<Mechanize::Page::Link "Skip to main content" "#wpbody-content">
+  #<Mechanize::Page::Link "Dashboard" "index.php">
+  #<Mechanize::Page::Link "Home" "index.php">
+  #<Mechanize::Page::Link "Comments I’ve Made" "index.php?page=my-comments">
+  #<Mechanize::Page::Link "Site Stats" "index.php?page=stats">
+  #<Mechanize::Page::Link
+   "Akismet Stats"
+   "index.php?page=akismet-stats-display">
+  #<Mechanize::Page::Link "My Blogs" "index.php?page=my-blogs">
+  #<Mechanize::Page::Link "Blogs I Follow" "index.php?page=subscriptions">
+  #<Mechanize::Page::Link "Omnisearch" "index.php?page=omnisearch">
+  #<Mechanize::Page::Link "Store" "paid-upgrades.php">
+  #<Mechanize::Page::Link "Store" "paid-upgrades.php">
+  #<Mechanize::Page::Link "Premium Themes" "themes.php?order=premium&ref=menu">
+  #<Mechanize::Page::Link "Domains" "paid-upgrades.php?page=domains">
+  #<Mechanize::Page::Link "My Upgrades" "paid-upgrades.php?page=my-upgrades">
+  #<Mechanize::Page::Link
+   "Billing History"
+   "paid-upgrades.php?page=billing-history">
+  #<Mechanize::Page::Link "Posts" "edit.php">
+  #<Mechanize::Page::Link "All Posts" "edit.php">
+  #<Mechanize::Page::Link "Add New" "post-new.php">
+  #<Mechanize::Page::Link "Categories" "edit-tags.php?taxonomy=category">
+  #<Mechanize::Page::Link "Tags" "edit-tags.php?taxonomy=post_tag">
+  #<Mechanize::Page::Link "Copy a Post" "post-new.php?cap#cap">
+  #<Mechanize::Page::Link "Media" "upload.php">
+  #<Mechanize::Page::Link "Library" "upload.php">
+  #<Mechanize::Page::Link "Add New" "media-new.php">
+  #<Mechanize::Page::Link "Links" "link-manager.php">
+  #<Mechanize::Page::Link "All Links" "link-manager.php">
+  #<Mechanize::Page::Link "Add New" "link-add.php">
+  #<Mechanize::Page::Link
+   "Link Categories"
+   "edit-tags.php?taxonomy=link_category">
+  #<Mechanize::Page::Link "Pages" "edit.php?post_type=page">
+  #<Mechanize::Page::Link "All Pages" "edit.php?post_type=page">
+  #<Mechanize::Page::Link "Add New" "post-new.php?post_type=page">
+  #<Mechanize::Page::Link "Copy a Page" "post-new.php?post_type=page&cap#cap">
+  #<Mechanize::Page::Link "Comments 2" "edit-comments.php">
+  #<Mechanize::Page::Link "Feedback" "admin.php?page=polls">
+  #<Mechanize::Page::Link "Polls" "admin.php?page=polls">
+  #<Mechanize::Page::Link "Ratings" "admin.php?page=ratings">
+  #<Mechanize::Page::Link "Feedback" "edit.php?post_type=feedback">
+  #<Mechanize::Page::Link "Appearance" "themes.php">
+  #<Mechanize::Page::Link "Themes" "themes.php">
+  #<Mechanize::Page::Link
+   "Customize"
+   "customize.php?url=http%3A%2F%2Fkacperniburski.wordpress.com%2Fwp-admin%2Fpost.php%3Fpost%3D1601%26action%3Dedit&src=dashboard">
+  #<Mechanize::Page::Link "Widgets" "widgets.php">
+  #<Mechanize::Page::Link "Menus" "nav-menus.php">
+  #<Mechanize::Page::Link "Theme Options" "themes.php?page=theme_options">
+  #<Mechanize::Page::Link "Header" "themes.php?page=custom-header">
+  #<Mechanize::Page::Link "Background" "themes.php?page=custom-background">
+  #<Mechanize::Page::Link "Custom Design" "themes.php?page=custom-design">
+  #<Mechanize::Page::Link "Mobile" "themes.php?page=mobile-options">
+  #<Mechanize::Page::Link "Users" "users.php">
+  #<Mechanize::Page::Link "All Users" "users.php">
+  #<Mechanize::Page::Link "Invite New" "users.php?page=wpcom-invite-users">
+  #<Mechanize::Page::Link "My Profile" "users.php?page=grofiles-editor">
+  #<Mechanize::Page::Link
+   "Personal Settings"
+   "users.php?page=grofiles-user-settings">
+  #<Mechanize::Page::Link "Tools" "tools.php">
+  #<Mechanize::Page::Link "Available Tools" "tools.php">
+  #<Mechanize::Page::Link "Import" "import.php">
+  #<Mechanize::Page::Link "Export" "export.php">
+  #<Mechanize::Page::Link "Delete Site" "tools.php?page=delete-blog">
+  #<Mechanize::Page::Link "Settings" "options-general.php">
+  #<Mechanize::Page::Link "General" "options-general.php">
+  #<Mechanize::Page::Link "Writing" "options-writing.php">
+  #<Mechanize::Page::Link "Reading" "options-reading.php">
+  #<Mechanize::Page::Link "Discussion" "options-discussion.php">
+  #<Mechanize::Page::Link "Media" "options-media.php">
+  #<Mechanize::Page::Link "Sharing" "options-general.php?page=sharing">
+  #<Mechanize::Page::Link
+   "Polls"
+   "options-general.php?page=polls&action=options">
+  #<Mechanize::Page::Link
+   "Ratings"
+   "options-general.php?page=ratings&action=options">
+  #<Mechanize::Page::Link "AdControl" "options-general.php?page=adcontrol">
+  #<Mechanize::Page::Link
+   "Email Post Changes"
+   "options-general.php?page=email_post_changes">
+  #<Mechanize::Page::Link "OpenID" "options-general.php?page=openidserver">
+  #<Mechanize::Page::Link "Webhooks" "options-general.php?page=webhooks">
+  #<Mechanize::Page::Link
+   "\n\t\t\t\t\t\t\t\t\tCustomizing This Display\t\t\t\t\t\t\t\t"
+   "#tab-panel-customize-display">
+  #<Mechanize::Page::Link
+   "\n\t\t\t\t\t\t\t\t\tTitle and Post Editor\t\t\t\t\t\t\t\t"
+   "#tab-panel-title-post-editor">
+  #<Mechanize::Page::Link
+   "\n\t\t\t\t\t\t\t\t\tInserting Media\t\t\t\t\t\t\t\t"
+   "#tab-panel-inserting-media">
+  #<Mechanize::Page::Link
+   "\n\t\t\t\t\t\t\t\t\tPublish Settings\t\t\t\t\t\t\t\t"
+   "#tab-panel-publish-box">
+  #<Mechanize::Page::Link
+   "\n\t\t\t\t\t\t\t\t\tDiscussion Settings\t\t\t\t\t\t\t\t"
+   "#tab-panel-discussion-settings">
+  #<Mechanize::Page::Link
+   "\n\t\t\t\t\t\t\t\t\tGet Help\t\t\t\t\t\t\t\t"
+   "#tab-panel-wpcom-feedback">
+  #<Mechanize::Page::Link
+   "learn more about embeds"
+   "http://codex.wordpress.org/Embeds">
+  #<Mechanize::Page::Link
+   "descriptions of each post format"
+   "http://codex.wordpress.org/Post_Formats#Supported_Formats">
+  #<Mechanize::Page::Link "Appearance" nil>
+  #<Mechanize::Page::Link "Comments" nil>
+  #<Mechanize::Page::Link "Configuration" nil>
+  #<Mechanize::Page::Link "General" nil>
+  #<Mechanize::Page::Link "Languages" nil>
+  #<Mechanize::Page::Link "Links" nil>
+  #<Mechanize::Page::Link "Media" nil>
+  #<Mechanize::Page::Link "Following" nil>
+  #<Mechanize::Page::Link "Tools" nil>
+  #<Mechanize::Page::Link "Policies & Safety" nil>
+  #<Mechanize::Page::Link "Traffic" nil>
+  #<Mechanize::Page::Link "Upgrades" nil>
+  #<Mechanize::Page::Link "Users" nil>
+  #<Mechanize::Page::Link "Widgets & Sidebars" nil>
+  #<Mechanize::Page::Link "Writing & Editing" nil>
+  #<Mechanize::Page::Link
+   "Check out Learn WordPress, chock full of tutorials and walkthroughs to make you a WordPress pro and impress your friends"
+   "http://learn.wordpress.com/">
+  #<Mechanize::Page::Link "Help" "#contextual-help-wrap">
+  #<Mechanize::Page::Link "Screen Options" "#screen-options-wrap">
+  #<Mechanize::Page::Link
+   "Enable Now"
+   "https://wordpress.com/settings/security/">
+  #<Mechanize::Page::Link
+   "Learn More"
+   "http://en.support.wordpress.com/security/two-step-authentication/">
+  #<Mechanize::Page::Link "" "javascript:hide_security_nag()">
+  #<Mechanize::Page::Link
+   "Add New"
+   "http://kacperniburski.wordpress.com/wp-admin/post-new.php">
+  #<Mechanize::Page::Link "Edit" "#post_name">
+  #<Mechanize::Page::Link
+   "View Post"
+   "http://kacperniburski.wordpress.com/2013/12/21/smudge/">
+  #<Mechanize::Page::Link "Get Shortlink" "#">
+  #<Mechanize::Page::Link " Add Media" "#">
+  #<Mechanize::Page::Link
+   " Add Poll"
+   "admin.php?page=polls&iframe&TB_iframe=true">
+  #<Mechanize::Page::Link
+   "\n\t\t Add Contact Form\t"
+   "http://kacperniburski.wordpress.com/wp-admin/admin-ajax.php?post_id=1601&action=grunion_form_builder&TB_iframe=true&width=768&id=add_form">
+  #<Mechanize::Page::Link
+   "Preview Changes"
+   "http://kacperniburski.wordpress.com/2013/12/21/smudge/">
+  #<Mechanize::Page::Link "Edit" "#post_status">
+  #<Mechanize::Page::Link "OK" "#post_status">
+  #<Mechanize::Page::Link "Cancel" "#post_status">
+  #<Mechanize::Page::Link "Edit" "#visibility">
+  #<Mechanize::Page::Link "OK" "#visibility">
+  #<Mechanize::Page::Link "Cancel" "#visibility">
+  #<Mechanize::Page::Link
+   "Browse"
+   "http://kacperniburski.wordpress.com/wp-admin/revision.php?revision=1619">
+  #<Mechanize::Page::Link "Edit" "#edit_timestamp">
+  #<Mechanize::Page::Link "OK" "#edit_timestamp">
+  #<Mechanize::Page::Link "Cancel" "#edit_timestamp">
+  #<Mechanize::Page::Link "Show" "#">
+  #<Mechanize::Page::Link
+   "\n\t\t\t\t\t\t\t\tFacebook\t\t\t\t\t\t\t"
+   "https://public-api.wordpress.com/connect/?magic=keyring&blog=22344011&kr_blog_nonce=56e166ee12&service=facebook&action=request&kr_nonce=fbe64fe3e5&nonce=aa7a44992f&for=publicize">
+  #<Mechanize::Page::Link
+   "\n\t\t\t\t\t\t\t\tGoogle+\t\t\t\t\t\t\t"
+   "https://public-api.wordpress.com/connect/?magic=keyring&blog=22344011&kr_blog_nonce=56e166ee12&service=google_plus&action=request&kr_nonce=fbe64fe3e5&nonce=d517bdd505&for=publicize">
+  #<Mechanize::Page::Link
+   "\n\t\t\t\t\t\t\t\tTwitter\t\t\t\t\t\t\t"
+   "https://public-api.wordpress.com/connect/?magic=keyring&blog=22344011&kr_blog_nonce=56e166ee12&service=twitter&action=request&kr_nonce=fbe64fe3e5&nonce=539bfa50e4&for=publicize">
+  #<Mechanize::Page::Link
+   "\n\t\t\t\t\t\t\t\tLinkedIn\t\t\t\t\t\t\t"
+   "https://public-api.wordpress.com/connect/?magic=keyring&blog=22344011&kr_blog_nonce=56e166ee12&service=linkedin&action=request&kr_nonce=fbe64fe3e5&nonce=7ec0c7b537&for=publicize">
+  #<Mechanize::Page::Link
+   "\n\t\t\t\t\t\t\t\tTumblr\t\t\t\t\t\t\t"
+   "https://public-api.wordpress.com/connect/?magic=keyring&blog=22344011&kr_blog_nonce=56e166ee12&service=tumblr&action=request&kr_nonce=fbe64fe3e5&nonce=47de8b9e52&for=publicize">
+  #<Mechanize::Page::Link
+   "\n\t\t\t\t\t\t\t\tPath\t\t\t\t\t\t\t"
+   "https://public-api.wordpress.com/connect/?magic=keyring&blog=22344011&kr_blog_nonce=56e166ee12&service=path&action=request&kr_nonce=fbe64fe3e5&nonce=04eebe762b&for=publicize">
+  #<Mechanize::Page::Link "Hide" "#">
+  #<Mechanize::Page::Link
+   "Move to Trash"
+   "http://kacperniburski.wordpress.com/wp-admin/post.php?post=1601&action=trash&_wpnonce=f30d8aac80">
+  #<Mechanize::Page::Link "All Categories" "#category-all">
+  #<Mechanize::Page::Link "Most Used" "#category-pop">
+  #<Mechanize::Page::Link
+   "\n\t\t\t\t\t\t+ Add New Category\t\t\t\t\t"
+   "#category-add">
+  #<Mechanize::Page::Link "Choose from the most used tags" "#titlediv">
+  #<Mechanize::Page::Link
+   "Set featured image"
+   "http://kacperniburski.wordpress.com/wp-admin/media-upload.php?post_id=1601&type=image&TB_iframe=1">
+  #<Mechanize::Page::Link "Copy a Post" "#copyapost">
+  #<Mechanize::Page::Link "Back" "">
+  #<Mechanize::Page::Link "Customize the message" "">
+  #<Mechanize::Page::Link "Cancel" "#">
+  #<Mechanize::Page::Link
+   "Get a share link without sending an email."
+   "javascript:DraftGetLink(jQuery,1601)">
+  #<Mechanize::Page::Link "Send more requests." "#sendmore">
+  #<Mechanize::Page::Link "Back" "">
+  #<Mechanize::Page::Link
+   "25 December, 2013 @ 13:02:02"
+   "http://kacperniburski.wordpress.com/wp-admin/revision.php?revision=1619">
+  #<Mechanize::Page::Link
+   "25 December, 2013 @ 13:00:17"
+   "http://kacperniburski.wordpress.com/wp-admin/revision.php?revision=1604">
+  #<Mechanize::Page::Link
+   "25 December, 2013 @ 12:49:05"
+   "http://kacperniburski.wordpress.com/wp-admin/revision.php?revision=1618">
+  #<Mechanize::Page::Link
+   "25 December, 2013 @ 12:47:28"
+   "http://kacperniburski.wordpress.com/wp-admin/revision.php?revision=1617">
+  #<Mechanize::Page::Link
+   "21 December, 2013 @ 3:11:15"
+   "http://kacperniburski.wordpress.com/wp-admin/revision.php?revision=1606">
+  #<Mechanize::Page::Link
+   "21 December, 2013 @ 3:10:09"
+   "http://kacperniburski.wordpress.com/wp-admin/revision.php?revision=1605">
+  #<Mechanize::Page::Link
+   "21 December, 2013 @ 2:45:27"
+   "http://kacperniburski.wordpress.com/wp-admin/revision.php?revision=1603">
+  #<Mechanize::Page::Link
+   "21 December, 2013 @ 2:44:13"
+   "http://kacperniburski.wordpress.com/wp-admin/revision.php?revision=1602">
+  #<Mechanize::Page::Link
+   "Learn more about manual excerpts."
+   "http://codex.wordpress.org/Excerpt">
+  #<Mechanize::Page::Link
+   "pingbacks"
+   "http://codex.wordpress.org/Introduction_to_Blogging#Managing_Comments">
+  #<Mechanize::Page::Link
+   "trackbacks and pingbacks"
+   "http://codex.wordpress.org/Introduction_to_Blogging#Managing_Comments">
+  #<Mechanize::Page::Link "Add comment" "#commentstatusdiv">
+  #<Mechanize::Page::Link "Undo" "#">
+  #<Mechanize::Page::Link "Undo" "#">
+  #<Mechanize::Page::Link
+   "\n\tAdd Comment\n\tUpdate Comment\n\tSubmit Reply"
+   "#comments-form">
+  #<Mechanize::Page::Link "Cancel" "#comments-form">
+  #<Mechanize::Page::Link "WordPress" "http://wordpress.com/">
+  #<Mechanize::Page::Link "Support" "http://en.support.wordpress.com/">
+  #<Mechanize::Page::Link "Forums" "http://en.forums.wordpress.com">
+  #<Mechanize::Page::Link
+   "Learn WordPress — Tutorials and Walkthroughs"
+   "http://learn.wordpress.com/">
+  #<Mechanize::Page::Link
+   "All Posts"
+   "http://kacperniburski.wordpress.com/wp-admin/edit.php">
+  #<Mechanize::Page::Link "Restore the backup." "#">
+  #<Mechanize::Page::Link "Undo." "#">
+  #<Mechanize::Page::Link "Skip to toolbar" "#wp-toolbar">
+  #<Mechanize::Page::Link "" "#">
+  #<Mechanize::Page::Link "WordPress.com" "http://wordpress.com/">
+  #<Mechanize::Page::Link "New Post" "http://wordpress.com/post/">
+  #<Mechanize::Page::Link "Reader" "http://wordpress.com/">
+  #<Mechanize::Page::Link
+   "Notifications"
+   "http://wordpress.com/notifications/">
+  #<Mechanize::Page::Link "Stats" "http://wordpress.com/my-stats/">
+  #<Mechanize::Page::Link "My Blog" "http://wordpress.com/my-blogs/">
+  #<Mechanize::Page::Link "Freshly Pressed" "http://wordpress.com/fresh/">
+  #<Mechanize::Page::Link "Settings" "http://wordpress.com/settings/">
+  #<Mechanize::Page::Link "" "#">
+  #<Mechanize::Page::Link
+   " Mizpellt wurdz"
+   "http://kacperniburski.wordpress.com/">
+  #<Mechanize::Page::Link
+   "Dashboard"
+   "http://kacperniburski.wordpress.com/wp-admin/">
+  #<Mechanize::Page::Link
+   "New"
+   "http://kacperniburski.wordpress.com/wp-admin/post-new.php?post_type=post">
+  #<Mechanize::Page::Link
+   "Post"
+   "http://kacperniburski.wordpress.com/wp-admin/post-new.php?post_type=post">
+  #<Mechanize::Page::Link
+   "Page"
+   "http://kacperniburski.wordpress.com/wp-admin/post-new.php?post_type=page">
+  #<Mechanize::Page::Link
+   "Media"
+   "http://kacperniburski.wordpress.com/wp-admin/post-new.php?post_type=attachment">
+  #<Mechanize::Page::Link
+   "Link"
+   "http://kacperniburski.wordpress.com/wp-admin/link-add.php">
+  #<Mechanize::Page::Link
+   "Comments 2"
+   "http://kacperniburski.wordpress.com/wp-admin/edit-comments.php">
+  #<Mechanize::Page::Link
+   "Customize"
+   "http://kacperniburski.wordpress.com/wp-admin/customize.php?url=http%3A%2F%2Fkacperniburski.wordpress.com%2Fwp-admin%2Fpost.php%3Fpost%3D1601%26action%3Dedit">
+  #<Mechanize::Page::Link
+   "Widgets"
+   "http://kacperniburski.wordpress.com/wp-admin/widgets.php">
+  #<Mechanize::Page::Link
+   "Random Post"
+   "http://kacperniburski.wordpress.com/?random">
+  #<Mechanize::Page::Link
+   "Theme: The Morning After"
+   "http://theme.wordpress.com/themes/themorningafter/">
+  #<Mechanize::Page::Link
+   "var src;if(typeof(window.devicePixelRatio)=='undefined'||window.devicePixelRatio<2){src='/wp-includes/charts/admin-bar-hours-scale.php';}else{src='/wp-includes/charts/admin-bar-hours-scale-2x.php';}document.write('<img style=\\'vertical-align: baseline\\' src=\\''+src+'\\' alt=\\'Stats\\' title=\\'Showing site views per hour for the last 48 hours. Click for full Site Stats.\\' />');"
+   "http://wordpress.com/my-stats/">
+  #<Mechanize::Page::Link "Kacper" "http://wordpress.com/settings/account/">
+  #<Mechanize::Page::Link "" "#">
+  #<Mechanize::Page::Link
+   "kacperniburskikacperniburski"
+   "http://wordpress.com/settings/account/">
+  #<Mechanize::Page::Link "Find Friends" "http://wordpress.com/find-friends/">
+  #<Mechanize::Page::Link "Manage My Blogs" "http://wordpress.com/my-blogs/">
+  #<Mechanize::Page::Link "Help" "http://en.support.wordpress.com/">
+  #<Mechanize::Page::Link
+   "Sign Out"
+   "http://wordpress.com/wp-login.php?action=logout&redirect_to=http%3A%2F%2Fwordpress.com%2F">
+  #<Mechanize::Page::Link
+   "Mizpellt wurdz"
+   "http://kacperniburski.wordpress.com/">
+  #<Mechanize::Page::Link
+   "Dashboard"
+   "http://kacperniburski.wordpress.com/wp-admin/">
+  #<Mechanize::Page::Link
+   "New Post"
+   "http://kacperniburski.wordpress.com/wp-admin/post-new.php">
+  #<Mechanize::Page::Link
+   "Site Stats"
+   "http://wordpress.com/my-stats/?blog=22344011">
+  #<Mechanize::Page::Link
+   "Manage Comments"
+   "http://kacperniburski.wordpress.com/wp-admin/edit-comments.php">
+  #<Mechanize::Page::Link "Read Blog" "http://kacperniburski.wordpress.com">
+  #<Mechanize::Page::Link "New Post" "http://wordpress.com/post/">
+  #<Mechanize::Page::Link
+   "Go Premium"
+   "http://kacperniburski.wordpress.com/wp-admin/paid-upgrades.php?product=1003&view=purchase&loc=admin-bar&ref=go-pro">
+  #<Mechanize::Page::Link
+   "Log Out"
+   "http://kacperniburski.wordpress.com/wp-login.php?action=logout&_wpnonce=da687727ca">
+  #<Mechanize::Page::Link
+   "Please log in again."
+   "http://kacperniburski.wordpress.com/wp-login.php">
+  #<Mechanize::Page::Link "Cancel" "#">
+  #<Mechanize::Page::Link "Exit fullscreen" "#">
+  #<Mechanize::Page::Link "Visual" "#">
+  #<Mechanize::Page::Link "Text" "#">
+  #<Mechanize::Page::Link "\n\t\t\t\n\t\t\t" "#">
+  #<Mechanize::Page::Link "\n\t\t\t\n\t\t\t" "#">
+  #<Mechanize::Page::Link "\n\t\t\t\n\t\t\t" "#">
+  #<Mechanize::Page::Link "\n\t\t\t\n\t\t\t" "#">
+  #<Mechanize::Page::Link "\n\t\t\t\n\t\t\t" "#">
+  #<Mechanize::Page::Link "\n\t\t\t\n\t\t\t" "#">
+  #<Mechanize::Page::Link "\n\t\t\t\n\t\t\t" "#">
+  #<Mechanize::Page::Link "\n\t\t\t\n\t\t\t" "#">
+  #<Mechanize::Page::Link "\n\t\t\t\n\t\t\t" "#">}
+ {forms
+  #<Mechanize::Form
+   {name nil}
+   {method "POST"}
+   {action ""}
+   {fields
+    [hidden:0x3fc200b741dc type: hidden name: _wpnonce-personal-write-settings value: 3b77694183]
+    [hidden:0x3fc200b79f9c type: hidden name: screenoptionnonce value: 17779b8e7e]}
+   {radiobuttons
+    [radiobutton:0x3fc200b74510 type: radio name: screen_columns value: 1]
+    [radiobutton:0x3fc200b74394 type: radio name: screen_columns value: 2]}
+   {checkboxes
+    [checkbox:0x3fc200b758ac type: checkbox name: likes_meta-hide value: true]
+    [checkbox:0x3fc200b756f4 type: checkbox name: revisionsdiv-hide value: true]
+    [checkbox:0x3fc200b75578 type: checkbox name: postexcerpt-hide value: false]
+    [checkbox:0x3fc200b75410 type: checkbox name: trackbacksdiv-hide value: false]
+    [checkbox:0x3fc200b752a8 type: checkbox name: commentstatusdiv-hide value: false]
+    [checkbox:0x3fc200b7512c type: checkbox name: commentsdiv-hide value: true]
+    [checkbox:0x3fc200b74fb0 type: checkbox name: slugdiv-hide value: false]
+    [checkbox:0x3fc200b74e34 type: checkbox name: authordiv-hide value: false]
+    [checkbox:0x3fc200b74ccc type: checkbox name: writing_helper_meta_box-hide value: true]
+    [checkbox:0x3fc200b74b3c type: checkbox name: formatdiv-hide value: true]
+    [checkbox:0x3fc200b74998 type: checkbox name: categorydiv-hide value: true]
+    [checkbox:0x3fc200b7481c type: checkbox name: tagsdiv-post_tag-hide value: true]
+    [checkbox:0x3fc200b7468c type: checkbox name: postimagediv-hide value: true]
+    [checkbox:0x3fc200b7409c type: checkbox name: personal_write_settings-surprise_me value: false]
+    [checkbox:0x3fc200b79b64 type: checkbox name: personal_write_settings-post_post_flag value: false]
+    [checkbox:0x3fc200b797e0 type: checkbox name: personal_write_settings-zemanta_enabled value: false]}
+   {file_uploads}
+   {buttons}>
+  #<Mechanize::Form
+   {name "post"}
+   {method "POST"}
+   {action "post.php"}
+   {fields
+    [hidden:0x3fc200b78db8 type: hidden name: _wpnonce value: 9419bbbec8]
+    [hidden:0x3fc200b78c64 type: hidden name: _wp_http_referer value: /wp-admin/post.php?post=1601&action=edit]
+    [hidden:0x3fc200b78ae8 type: hidden name: user_ID value: 22768136]
+    [hidden:0x3fc200b7896c type: hidden name: action value: editpost]
+    [hidden:0x3fc200b78818 type: hidden name: originalaction value: editpost]
+    [hidden:0x3fc200b786b0 type: hidden name: post_author value: 22768136]
+    [hidden:0x3fc200b78548 type: hidden name: post_type value: post]
+    [hidden:0x3fc200b783e0 type: hidden name: original_post_status value: publish]
+    [hidden:0x3fc200b7828c type: hidden name: referredby value: http://kacperniburski.wordpress.com/wp-admin/edit.php]
+    [hidden:0x3fc200b7805c type: hidden name: _wp_original_http_referer value: http://kacperniburski.wordpress.com/wp-admin/edit.php]
+    [hidden:0x3fc200b7dfc0 type: hidden name: post_ID value: 1601]
+    [hidden:0x3fc200b7de6c type: hidden name: autosavenonce value: b0aec1b2f0]
+    [hidden:0x3fc200b7dd18 type: hidden name: meta-box-order-nonce value: ebf5fd1c9b]
+    [hidden:0x3fc200b7dbc4 type: hidden name: closedpostboxesnonce value: 6d93c8b190]
+    [text:0x3fc200b7da34 type: text name: post_title value: Smudge]
+    [hidden:0x3fc200b7d82c type: hidden name: samplepermalinknonce value: f7b9e765f2]
+    [hidden:0x3fc200b7d570 type: hidden name: wp-preview value: ]
+    [hidden:0x3fc200b7d41c type: hidden name: hidden_post_status value: publish]
+    [hidden:0x3fc200b7d2c8 type: hidden name: hidden_post_password value: ]
+    [hidden:0x3fc200b7cff8 type: hidden name: hidden_post_visibility value: public]
+    [text:0x3fc200b7ca44 type: text name: post_password value: ]
+    [text:0x3fc200b7c774 type: text name: jj value: 21]
+    [text:0x3fc200b7c60c type: text name: aa value: 2013]
+    [text:0x3fc200b7c490 type: text name: hh value: 02]
+    [text:0x3fc200b7c33c type: text name: mn value: 44]
+    [hidden:0x3fc200b7c1e8 type: hidden name: ss value: 13]
+    [hidden:0x3fc200b7c044 type: hidden name: hidden_mm value: 12]
+    [hidden:0x3fc200b81f6c type: hidden name: cur_mm value: 12]
+    [hidden:0x3fc200b81e18 type: hidden name: hidden_jj value: 21]
+    [hidden:0x3fc200b81cc4 type: hidden name: cur_jj value: 28]
+    [hidden:0x3fc200b81b70 type: hidden name: hidden_aa value: 2013]
+    [hidden:0x3fc200b81a1c type: hidden name: cur_aa value: 2013]
+    [hidden:0x3fc200b818c8 type: hidden name: hidden_hh value: 02]
+    [hidden:0x3fc200b81774 type: hidden name: cur_hh value: 15]
+    [hidden:0x3fc200b81620 type: hidden name: hidden_mn value: 44]
+    [hidden:0x3fc200b814cc type: hidden name: cur_mn value: 28]
+    [hidden:0x3fc200b81378 type: hidden name: original_publish value: Update]
+    [hidden:0x3fc200b809dc type: hidden name: post_category[] value: 0]
+    [text:0x3fc200b85f04 type: text name: newcategory value: New Category Name]
+    [hidden:0x3fc200b85c34 type: hidden name: _ajax_nonce-add-category value: 770c9539b5]
+    [text:0x3fc200b85acc type: text name: newtag[post_tag] value: ]
+    [field:0x3fc200b85554 type: search name: search value: Search for a post by title]
+    [text:0x3fc200b89708 type: text name: trackback_url value: ]
+    [hidden:0x3fc200b895a0 type: hidden name: advanced_view value: 1]
+    [hidden:0x3fc200b8912c type: hidden name: add_comment_nonce value: d5d47eec12]
+    [hidden:0x3fc200b88fd8 type: hidden name: _ajax_fetch_list_nonce value: ca5e04cfca]
+    [hidden:0x3fc200b88e84 type: hidden name: _wp_http_referer value: /wp-admin/post.php?post=1601&action=edit]
+    [text:0x3fc200b88d1c type: text name: post_name value: smudge]
+    [hidden:0x3fc200b88a38 type: hidden name: wpl_like_status_hidden value: 1]
+    [hidden:0x3fc200b886f0 type: hidden name: wpl_sharing_status_hidden value: 1]
+    [textarea:0x3fc200b88358 type:  name: content value: There is a place where people never die.
+
+
+“
+<i>“Lut...”</i>
+
+I rush to my mother and cry on her shoulder. The <em>beep-beep</em> comes back, eventually.]
+    [textarea:0x3fc200b88254 type:  name: tax_input[post_tag] value: ]
+    [textarea:0x3fc200b880d8 type:  name: excerpt value: ]
+    [selectlist:0x3fc200b8c160 type:  name: post_status value: publish]
+    [selectlist:0x3fc200b8daec type:  name: mm value: 12]
+    [selectlist:0x3fc200b8cf20 type:  name: newcategory_parent value: -1]
+    [selectlist:0x3fc200b8c5c0 type:  name: post_author_override value: 22768136]}
+   {radiobuttons
+    [radiobutton:0x3fc200b7ceb8 type: radio name: visibility value: public]
+    [radiobutton:0x3fc200b7cbd4 type: radio name: visibility value: password]
+    [radiobutton:0x3fc200b7c904 type: radio name: visibility value: private]
+    [radiobutton:0x3fc200b810d0 type: radio name: post_format value: 0]
+    [radiobutton:0x3fc200b80f04 type: radio name: post_format value: aside]}
+   {checkboxes
+    [checkbox:0x3fc200b7d188 type: checkbox name: hidden_post_sticky value: false]
+    [checkbox:0x3fc200b7cd3c type: checkbox name: sticky value: false]
+    [checkbox:0x3fc200b808b0 type: checkbox name: post_category[] value: true]
+    [checkbox:0x3fc200b80734 type: checkbox name: post_category[] value: false]
+    [checkbox:0x3fc200b805cc type: checkbox name: post_category[] value: false]
+    [checkbox:0x3fc200b80464 type: checkbox name: post_category[] value: false]
+    [checkbox:0x3fc200b802e8 type: checkbox name: post_category[] value: false]
+    [checkbox:0x3fc200b8016c type: checkbox name: post_category[] value: false]
+    [checkbox:0x3fc200b84794 type: checkbox name: post_category[] value: false]
+    [checkbox:0x3fc200b89460 type: checkbox name: comment_status value: true]
+    [checkbox:0x3fc200b892e4 type: checkbox name: ping_status value: true]
+    [checkbox:0x3fc200b88bdc type: checkbox name: wpl_enable_post_likes value: true]
+    [checkbox:0x3fc200b8890c type: checkbox name: wpl_enable_post_sharing value: true]}
+   {file_uploads}
+   {buttons
+    [submit:0x3fc200b7d6ec type: submit name: save value: Save]
+    [submit:0x3fc200b8124c type: submit name: save value: Update]
+    [button:0x3fc200b85d88 type: button name:  value: Add New Category]
+    [button:0x3fc200b85964 type: button name:  value: Add]
+    [submit:0x3fc200b857fc type: submit name:  value: Send Requests]
+    [submit:0x3fc200b85694 type: submit name:  value: Send Requests]
+    [button:0x3fc200b853c4 type: button name:  value: Cancel]
+    [button:0x3fc200b85270 type: button name:  value: Confirm Copy]
+    [button:0x3fc200b85108 type: button name:  value: Copy]
+    [button:0x3fc200b84fb4 type: button name:  value: Copy]
+    [button:0x3fc200b84e4c type: button name:  value: Copy]
+    [button:0x3fc200b84cf8 type: button name:  value: Copy]
+    [button:0x3fc200b84b90 type: button name:  value: Copy]
+    [button:0x3fc200b84a3c type: button name:  value: Copy]
+    [button:0x3fc200b848d4 type: button name:  value: Copy]
+    [button:0x3fc200b8476c type: button name:  value: Copy]
+    [button:0x3fc200b84618 type: button name:  value: Copy]
+    [button:0x3fc200b844c4 type: button name:  value: Copy]
+    [button:0x3fc200b84370 type: button name:  value: Copy]
+    [button:0x3fc200b8421c type: button name:  value: Copy]
+    [button:0x3fc200b840c8 type: button name:  value: Copy]
+    [button:0x3fc200b881dc type: button name:  value: Copy]
+    [button:0x3fc200b89f14 type: button name:  value: Copy]
+    [button:0x3fc200b89dc0 type: button name:  value: Copy]
+    [button:0x3fc200b89c6c type: button name:  value: Copy]
+    [button:0x3fc200b89b18 type: button name:  value: Copy]
+    [button:0x3fc200b899b0 type: button name:  value: Copy]
+    [button:0x3fc200b89848 type: button name:  value: Copy]}>
+  #<Mechanize::Form
+   {name nil}
+   {method "GET"}
+   {action ""}
+   {fields
+    [text:0x3fc200b916b0 type: text name: newcomment_author value: ]
+    [text:0x3fc200b9155c type: text name: newcomment_author_email value: ]
+    [text:0x3fc200b91408 type: text name: newcomment_author_url value: ]
+    [hidden:0x3fc200b912b4 type: hidden name: user_ID value: 22768136]
+    [hidden:0x3fc200b91160 type: hidden name: action value: ]
+    [hidden:0x3fc200b9100c type: hidden name: comment_ID value: ]
+    [hidden:0x3fc200b90eb8 type: hidden name: comment_post_ID value: ]
+    [hidden:0x3fc200b90d64 type: hidden name: status value: ]
+    [hidden:0x3fc200b90c10 type: hidden name: position value: 1]
+    [hidden:0x3fc200b90abc type: hidden name: checkbox value: 0]
+    [hidden:0x3fc200b90968 type: hidden name: mode value: single]
+    [hidden:0x3fc200b90814 type: hidden name: _ajax_nonce-replyto-comment value: 1d3ab6b098]
+    [textarea:0x3fc200b90490 type:  name: replycontent value: ]}
+   {radiobuttons}
+   {checkboxes}
+   {file_uploads}
+   {buttons}>
+  #<Mechanize::Form
+   {name "adminbarsearch"}
+   {method "GET"}
+   {action "http://en.search.wordpress.com"}
+   {fields
+    [text:0x3fc200b95828 type: text name: q value: ]
+    [hidden:0x3fc200b956c0 type: hidden name: site value: kacperniburski.wordpress.com]}
+   {radiobuttons}
+   {checkboxes}
+   {file_uploads}
+   {buttons}>
+  #<Mechanize::Form
+   {name nil}
+   {method "GET"}
+   {action
+    "http://kacperniburski.wordpress.com/wp-admin/post.php?post=1601&action=edit"}
+   {fields
+    [hidden:0x3fc200b94734 type: hidden name: _ajax_linking_nonce value: 8ee7262981]
+    [text:0x3fc200b945cc type: text name: href value: ]
+    [text:0x3fc200b94478 type: text name: linktitle value: ]}
+   {radiobuttons}
+   {checkboxes}
+   {file_uploads}
+   {buttons
